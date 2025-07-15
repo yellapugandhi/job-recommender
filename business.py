@@ -3,7 +3,7 @@ import requests
 import os
 
 # Set your GROQ API key (store securely in production)
-GROQ_API_KEY = os.getenv("GROQ_API_KEY", "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")
+GROQ_API_KEY = os.getenv("GROQ_API_KEY", "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")
 
 # Available models
 MODEL_OPTIONS = {
